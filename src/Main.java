@@ -10,7 +10,6 @@ public class Main {
         task6();
         task7();
         task8();
-
     }
     public static void task1() {
         System.out.println("Task 1. Saving duration");
